@@ -1,4 +1,4 @@
-In this project, let's build an **Appointments App** by applying the concepts we have learned till now.
+In this project, let's build an **Appointments App**
 
 ### Refer to the image below:
 
@@ -8,15 +8,7 @@ In this project, let's build an **Appointments App** by applying the concepts we
 </div>
 <br/>
 
-### Design Files
 
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/appointments-app-sm-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/appointments-app-lg-output.png)
-
-</details>
 
 ### Set Up Instructions
 
@@ -29,7 +21,7 @@ In this project, let's build an **Appointments App** by applying the concepts we
 
 ### Completion Instructions
 
-<details>
+
 <summary>Functionality to be added</summary>
 <br/>
 
@@ -45,7 +37,7 @@ The app must have the following functionalities
 - When the **Starred** filter is inactive, the list of all appointments should be displayed
 </details>
 
-<details>
+
 <summary>Components Structure</summary>
 
 <br/>
@@ -54,24 +46,14 @@ The app must have the following functionalities
 </div>
 <br/>
 
-</details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
 
-Use these files to complete the implementation:
 
-- `src/components/Appointments/index.js`
-- `src/components/Appointments/index.css`
-- `src/components/AppointmentItem/index.js`
-- `src/components/AppointmentItem/index.css`
-</details>
 
 ### Quick Tips
 
-<details>
-<summary>Click to view</summary>
+
+
 <br>
 
 - The HTML input element with the type `date` is designed for the user to select the date from a date picker
@@ -88,11 +70,11 @@ Use these files to complete the implementation:
   console.log(format(new Date(2021, 19, 07), 'dd MMMM yyyy, EEEE')) // 19 July 2021, Monday
   ```
 
-</details>
+
 
 ### Important Note
 
-<details>
+
 <summary>Click to view</summary>
 
 <br/>
@@ -103,20 +85,20 @@ Use these files to complete the implementation:
 - The star button in each appointment should have the data-testid as **star**
 - The star image in each appointment should have alt as **star**
 
-</details>
+
 
 ### Resources
 
-<details>
+
 <summary>Image URLs</summary>
 
 - [https://assets.ccbp.in/frontend/react-js/appointments-app/appointments-img.png](https://assets.ccbp.in/frontend/react-js/appointments-app/appointments-img.png) alt should be **appointments**
 - [https://assets.ccbp.in/frontend/react-js/appointments-app/star-img.png](https://assets.ccbp.in/frontend/react-js/appointments-app/star-img.png)
 - [https://assets.ccbp.in/frontend/react-js/appointments-app/filled-star-img.png](https://assets.ccbp.in/frontend/react-js/appointments-app/filled-star-img.png)
 
-</details>
 
-<details>
+
+
 <summary>Colors</summary>
 
 <br/>
@@ -129,14 +111,8 @@ Use these files to complete the implementation:
 <div style="background-color: #b5b7c4; width: 150px; padding: 10px; color: black">Hex: #b5b7c4</div>
 <div style="background-color: #9897f0; width: 150px; padding: 10px; color: black">Hex: #9897f0</div>
 
-</details>
 
-<details>
-<summary>Font-families</summary>
 
-- Roboto
-
-</details>
 
 > ### _Things to Keep in Mind_
 >
